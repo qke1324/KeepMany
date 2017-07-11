@@ -1,2 +1,2 @@
 # KeepMany
-Its project for my Capstone Design
+This project for my Capstone Design
